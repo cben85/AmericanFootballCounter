@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AmericanFootballCounter</string>
+    <string name="button1">Touchdown</string>
+    <string name="button2">Extra Point</string>
+    <string name="button3">Conversion</string>
+    <string name="button4">Field Goal</string>
+    <string name="resetbutton">Reset</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+</resources>
